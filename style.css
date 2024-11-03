@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://www.roadtovr.com/wp-content/uploads/2015/08/htv-vive-secret-shop-art.jpg);
+;
+}
+
+#container {
+    background-image: linear-gradient(rgb(107, 41, 15), rgb(201, 98, 30));
+    border: 5px solid lightgoldenrodyellow;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+    overflow: auto;
+}
+
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-image: linear-gradient(rgb(192, 126, 99), rgb(190, 181, 177)); }
+
+#output {
+    margin: 25px auto;
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 3px 3px black;
+
+}
